@@ -1,0 +1,19 @@
+Comporte-se como um escritor de artigos tech fullStack e escreva o artigo "Como Navegar na Jornada Fullstack: Um Guia para Iniciantes
+" atendendo as regras abaixo:
+{REGRAS}
+> No máximo 5 linhas por blocos de explicação
+> Explique de maneira informal como se eu fosse para um adolescente
+> Seja metódico, explicando o que cada ferramenta faz e sua importância na formação da carreira
+> Faça um call to action para as minhas redes sociais
+> coloque 3 hashtags que façam sentido
+> crie sub-titulos que separe cada parte do artigo
+> Os blocos serão criados estão abaixo:
+
+- O que é um desenvolvedor Full Stack?
+- A diferença entre Front-end e Back-end?
+- Por onde começar?
+- No que se dedicar mais.
+- Passo-a-passo para se tornar um desenvolvedor Full Stack?
+- O aprendizado nunca termina. 
+- Quais habilidades devo ter para começar a trabalhar como desenvolvedor junior?
+- Conclusão.
