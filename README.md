@@ -14,7 +14,7 @@
 Projeto com o objetivo de gerar um artigo digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/billrabelo/dio-artigo-fullstack.git/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/billrabelo/dio-artigo-fullstack/blob/main/output/Artigo%20Como%20Se%20tornar%20um%20FullStack.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -29,8 +29,24 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Descrição  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| Comandos | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  Descrição  | Comporte-se como um escritor de artigos tech fullStack e escreva o artigo "Como Navegar na Jornada Fullstack: Um Guia para Iniciantes " atendendo as regras abaixo:                                                       |
+| Comandos | {REGRAS}
+> No máximo 5 linhas por blocos de explicação
+> Explique de maneira informal como se eu fosse para um adolescente
+> Seja metódico, explicando o que cada ferramenta faz e sua importância na formação da carreira
+> Faça um call to action para as minhas redes sociais
+> coloque 3 hashtags que façam sentido
+> crie sub-titulos que separe cada parte do artigo
+> Os blocos serão criados estão abaixo:
+
+- O que é um desenvolvedor Full Stack?
+- A diferença entre Front-end e Back-end?
+- Por onde começar?
+- No que se dedicar mais.
+- Passo-a-passo para se tornar um desenvolvedor Full Stack?
+- O aprendizado nunca termina. 
+- Quais habilidades devo ter para começar a trabalhar como desenvolvedor junior?
+- Conclusão. |
 
 
 
